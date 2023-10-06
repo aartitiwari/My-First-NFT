@@ -1,0 +1,19 @@
+{
+  "name": "my-first-nft",
+  "version": "1.0.0",
+  "description": "Create an ERC-721 NFT",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aartitiwari/My-First-NFT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aartitiwari/My-First-NFT/issues"
+  },
+  "homepage": "https://github.com/aartitiwari/My-First-NFT#readme"
+}
